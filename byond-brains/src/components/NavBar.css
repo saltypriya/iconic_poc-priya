@@ -1,0 +1,18 @@
+.tittleButton{
+    width: 4%;
+    padding: 3px;
+    margin-right: 0.1%;
+    padding-top: 8px;
+}
+
+.disp{
+    display: flex;
+    padding-left: 0;
+}
+
+.wid{
+    max-width: max-content;
+}
+.icon{
+    border-radius: 50%;
+}

@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.footerul{
+    list-style-type: none;
+    display: flex;
+    padding: 10px;
+}
+
+.footerli{
+    margin: 0.35%;
+    text-decoration: underline;
+}
+
+.testimonials{
+    padding: 3px;
+    width: 35%;
+}
+
+.toolbar{
+    height: fit-content;
+}
